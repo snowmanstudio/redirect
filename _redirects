@@ -1,2 +1,2 @@
 / https://blog.my.domain 301
-/* :splat
+/blog/* https://blog.my.domain/:splat
